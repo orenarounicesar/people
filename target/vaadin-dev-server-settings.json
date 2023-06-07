@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/orenaro/Git/unicesar/people/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/orenaro/Git/unicesar/people/frontend/generated/jar-resources",
+  "staticOutput": "/home/orenaro/Git/unicesar/people/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/orenaro/Git/unicesar/people/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/orenaro/Git/unicesar/people/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/orenaro/Git/unicesar/people/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/orenaro/Git/unicesar/people/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/orenaro/Git/unicesar/people/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "people",
+  "clientServiceWorkerSource": "/home/orenaro/Git/unicesar/people/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

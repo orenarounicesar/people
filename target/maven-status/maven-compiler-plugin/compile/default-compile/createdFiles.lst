@@ -1,0 +1,11 @@
+edu/orenarounicesar/people/Application$1.class
+edu/orenarounicesar/people/data/entity/SamplePerson.class
+edu/orenarounicesar/people/views/about/AboutView.class
+edu/orenarounicesar/people/data/entity/AbstractEntity.class
+edu/orenarounicesar/people/views/data/DataView.class
+edu/orenarounicesar/people/data/service/SamplePersonService.class
+edu/orenarounicesar/people/components/appnav/AppNavItem.class
+edu/orenarounicesar/people/views/MainLayout.class
+edu/orenarounicesar/people/Application.class
+edu/orenarounicesar/people/data/service/SamplePersonRepository.class
+edu/orenarounicesar/people/components/appnav/AppNav.class
